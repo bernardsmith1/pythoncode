@@ -1,0 +1,5 @@
+answer = input("Hi there, what is your name? ")
+print("Hello")
+print(answer)
+print("How are you? ")
+input(" ")
